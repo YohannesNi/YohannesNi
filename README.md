@@ -9,7 +9,7 @@
 
 ###
 
-- 🔭 I’m currently working on **Zoom Clone**
+- 🔭 I’m currently working on **a Chat app**
 
 - 🌱 I’m currently learning **React Native**
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohannesni&show_icons=true&locale=en&layout=compact" alt="yohannesni" /></p>
+<p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohannesni&show_icons=true&locale=en&layout=compact" alt="yohannesni" /></p>
 
 ###
-
+<p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=yohannesni&" alt="yohannesni" /></p>
