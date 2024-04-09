@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **yohannes.nigusie01@gmail.com**
+
 
 ###
 <h3 align="left">Connect with me:</h3>
