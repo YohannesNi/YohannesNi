@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Full Stack**
 
 
 
